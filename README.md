@@ -1,2 +1,2 @@
 # Team-B-Capstone-2015
-Repository for 2015 Capstone Team B
+Primary repository for the project of Capstone Team B. When a project has been selected, this repo will be renamed to match. In addition, this repository will soon be moved into an organization.
